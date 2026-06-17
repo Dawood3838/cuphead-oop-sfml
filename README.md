@@ -95,10 +95,6 @@ The demonstration showcases:
 
 ![Boss Battle](screenshots/boss-battle.png)
 
-### Save / Load System
-
-![Save Load](screenshots/save-load-screen.png)
-
 ### Pause Screen
 
 ![Pause Screen](screenshots/pause-screen.png)
@@ -107,9 +103,7 @@ The demonstration showcases:
 
 ![Scoreboard](screenshots/scoreboard.png)
 
-### Game Over Screen
-
-![Game Over](screenshots/game-over-screen.png)
+Checkout the screenshots folder, to see more visuals of the game.
 
 ---
 
@@ -148,6 +142,7 @@ Through this project, we gained practical experience in:
 ## Author
 
 Muhammad Dawood
+Muhammad Abdullah Kewan
 BS Cyber Security
 FAST NUCES Islamabad
 
