@@ -66,7 +66,7 @@ This project recreates key gameplay elements from Cuphead, including run-and-gun
 🎥 A gameplay demonstration and project showcase can be viewed here:
 
 **Video Demonstration:**
-[Insert LinkedIn / YouTube / Google Drive video link here]
+[(https://www.linkedin.com/posts/muhammad-dawood-a1bb40324_excited-to-share-another-university-project-ugcPost-7472992671301689345-YT3d/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIJzbcBieJ-zMHfKZuyZR2F1OKolg5Yk8k)]
 
 The demonstration showcases:
 
